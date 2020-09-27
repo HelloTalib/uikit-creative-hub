@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;600&display=swap');
+$global-font-family: 'Work Sans', sans-serif;
+$global-font-size: 16px;
+$base-body-font-weight: 400;
+$global-line-height: 1.5;
+$global-primary-background: #ec2178;
+// $global-secondary-background: #4da4b0;
+$global-color: #4a4a4a;
+$container-large-max-width: 1360px;
+// $heading-bullet-border: $global-primary-background;
+// $global-border: $global-primary-background;
+// $global-primary-color: #fddf00;
+// $icon-button-background:red;
+// $global-border-width: 200px;
+// $global-background: #fcfcfc;
+// $global-muted-color: #fddf00;
+$global-link-color: $global-primary-background;
+// $base-link-hover-color: $global-secondary-background;
+$base-link-hover-text-decoration: none;
+
+// $heading-xlarge-font-size-l: 114px;
+// $heading-xlarge-font-size-m: 114px;
+// $heading-xlarge-font-size-s: 114px;
+
+//seclection
+$base-selection-background: #fffc16;
+$base-selection-color: #212121;
+
+//heading
+// $base-heading-font-family: "Roboto", sans-serif;
+// $base-heading-font-weight: 500;
+// $base-heading-color: #4e4b4b;
+// $heading-line-width:200px;
+
+// $offcanvas-bar-background: #fff;
